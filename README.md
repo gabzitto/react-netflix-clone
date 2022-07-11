@@ -1,2 +1,2 @@
 # react-netflix-clone
-clone do site netflix feita em React
+clone da netflix feito em React.
